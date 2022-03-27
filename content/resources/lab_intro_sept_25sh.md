@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 96637730-3e6e-8fb3-17f3-c255e0104a2b
 resourcetype: Document
 title: lab_Intro_sept_25SH.pdf
 uid: b0311786-b363-df73-9508-7bdc851b4526

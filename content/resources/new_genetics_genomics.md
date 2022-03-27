@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9f4879a3-a4f0-642d-2c3e-ca6f6bb6913b
 resourcetype: Document
 title: new_genetics_genomics.pdf
 uid: 8e88db8f-f532-58dc-7f92-afc6e7b05db0

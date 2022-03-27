@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9f4879a3-a4f0-642d-2c3e-ca6f6bb6913b
 resourcetype: Document
 title: new_genetic_hearing_loss.pdf
 uid: f3a0e878-a6bf-5d6e-9457-c8cec493b90d

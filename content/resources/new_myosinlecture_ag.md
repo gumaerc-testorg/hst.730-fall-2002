@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9f4879a3-a4f0-642d-2c3e-ca6f6bb6913b
 resourcetype: Document
 title: new_myosinlecture_ag.pdf
 uid: 6e81bb82-8435-7ea1-773e-99832d21c65b

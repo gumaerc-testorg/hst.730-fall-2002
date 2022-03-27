@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9f4879a3-a4f0-642d-2c3e-ca6f6bb6913b
 resourcetype: Document
 title: new_intro_molec_biol_lect_2.pdf
 uid: 43179025-c36b-4cfd-bd34-ddcf3479fa74

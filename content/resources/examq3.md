@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: a3f4debc-1d36-7477-339f-aa688fde9936
 resourcetype: Image
 title: examq3.jpg
 uid: b91d4435-9191-f26e-93a5-142c2dbed839
