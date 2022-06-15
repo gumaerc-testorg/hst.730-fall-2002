@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /media/courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/844e7b446db7b0008237c93990dbab6a_hst-730f02-th.jpg
+file: /courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/844e7b446db7b0008237c93990dbab6a_hst-730f02-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: The inner ear. (Image courtesy of [http://www.nasa.gov](http://www.nasa.gov).)
@@ -15,3 +15,5 @@ resourcetype: Image
 title: hst-730f02-th.jpg
 uid: 844e7b44-6db7-b000-8237-c93990dbab6a
 ---
+New image Upload
+

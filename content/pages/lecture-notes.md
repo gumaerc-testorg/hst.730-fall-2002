@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the lecture notes for the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Basic Molecular Biology (part 1) ([PDF - 2.3 MB]({{< baseurl >}}/resources/new_intro_molec_biol_lect_1))
+Basic Molecular Biology (part 1) ({{% resource_link 917cceb5-a5a9-7b1e-09b5-a36b3ca2dddb "PDF - 2.3 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +35,7 @@ Basic Molecular Biology (part 1) ([PDF - 2.3 MB]({{< baseurl >}}/resources/new_i
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Basic Molecular Biology (part 2) ([PDF - 2.1 MB]({{< baseurl >}}/resources/new_intro_molec_biol_lect_2))
+Basic Molecular Biology (part 2) ({{% resource_link 43179025-c36b-4cfd-bd34-ddcf3479fa74 "PDF - 2.1 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ Basic Molecular Biology (part 2) ([PDF - 2.1 MB]({{< baseurl >}}/resources/new_i
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Molecular Biology Techniques and Lab Intro ([PDF - 1.8 MB]({{< baseurl >}}/resources/new_lab_introsept25_sh))
+Molecular Biology Techniques and Lab Intro ({{% resource_link 17c74292-ce24-4d5f-fcb8-88b869b3aaba "PDF - 1.8 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +62,7 @@ Lab
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Genetics and Genomics ([PDF - 3.0 MB]({{< baseurl >}}/resources/new_genetics_genomics))
+Genetics and Genomics ({{% resource_link 8e88db8f-f532-58dc-7f92-afc6e7b05db0 "PDF - 3.0 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +89,7 @@ Neurotransmitters, Cell Signaling, and Cochlear Physiology
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Inner Ear Development ([PDF - 1.1 MB]({{< baseurl >}}/resources/new_development_oct_16_sh))
+Inner Ear Development ({{% resource_link fe5fbcb7-c574-8615-abd1-d4796d2a845f "PDF - 1.1 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +98,7 @@ Inner Ear Development ([PDF - 1.1 MB]({{< baseurl >}}/resources/new_development_
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Overview of Genetic Hearing Loss ([PDF - 2.1 MB]({{< baseurl >}}/resources/new_genetic_hearing_loss))
+Overview of Genetic Hearing Loss ({{% resource_link f3a0e878-a6bf-5d6e-9457-c8cec493b90d "PDF - 2.1 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -169,7 +170,7 @@ Student Discussion Session 3: Connexins
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Myosins ([PDF - 1.6 MB]({{< baseurl >}}/resources/new_myosinlecture_ag))
+Myosins ({{% resource_link 6e81bb82-8435-7ea1-773e-99832d21c65b "PDF - 1.6 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -214,7 +215,7 @@ Hair Cell Regeneration
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Embryonic Stem Cells ([PDF - 3.1 MB]({{< baseurl >}}/resources/new_stem_cells_dec9sh))
+Embryonic Stem Cells ({{% resource_link 87f656fc-0ac7-dbda-232a-2e50fc1b106b "PDF - 3.1 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

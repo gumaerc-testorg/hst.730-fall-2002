@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides an introduction to the lab and descriptions of
+  the lab projects.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Labs
 uid: 96637730-3e6e-8fb3-17f3-c255e0104a2b
 ---
 
-Lab Introduction Lecture Notes ([PDF - 1.7 MB]({{< baseurl >}}/resources/lab_intro_sept_25sh))
+Lab Introduction Lecture Notes ({{% resource_link b0311786-b363-df73-9508-7bdc851b4526 "PDF - 1.7 MB" %}})
 
 Laboratory Project Part I
 -------------------------
