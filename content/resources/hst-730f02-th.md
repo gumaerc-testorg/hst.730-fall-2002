@@ -10,10 +10,10 @@ image_metadata:
     eardrum, anvil, middle ear, stirrup, Eustachian tube, cochlea, auditory nerve,
     inner ear.'
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: hst-730f02-th.jpg
 uid: 844e7b44-6db7-b000-8237-c93990dbab6a
 ---
 New image Upload
-

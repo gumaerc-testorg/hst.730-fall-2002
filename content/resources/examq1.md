@@ -11,6 +11,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Exams
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: examq1.jpg
 uid: 948483ea-0c15-2947-ebee-7f8c6afae5ac
 ---
 Pedigree from a family in which sensorineural deafness is present in some members. Squares are males, circles are females, dark symbols are deaf family members, white symbols are normal hearing family members.
-

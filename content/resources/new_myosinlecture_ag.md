@@ -5,6 +5,7 @@ file: /courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/6e81b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: new_myosinlecture_ag.pdf
 uid: 6e81bb82-8435-7ea1-773e-99832d21c65b
 ---
 Myosins
-

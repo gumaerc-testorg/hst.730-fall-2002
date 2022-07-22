@@ -5,6 +5,7 @@ file: /courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/992dd
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: examQ7.pdf
 uid: 992dd639-a07e-de38-71e2-4fd5d34ead95
 ---
 Final Exam HST 730/Pathology 205 Lecture #24
-

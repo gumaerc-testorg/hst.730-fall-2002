@@ -5,6 +5,7 @@ file: /courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/87f65
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: new_stem_cells_dec9sh.pdf
 uid: 87f656fc-0ac7-dbda-232a-2e50fc1b106b
 ---
 Embryonic Stem Cells
-

@@ -5,6 +5,7 @@ file: /courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/43179
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: new_intro_molec_biol_lect_2.pdf
 uid: 43179025-c36b-4cfd-bd34-ddcf3479fa74
 ---
 Basic Molecular Biology (part 2)
-

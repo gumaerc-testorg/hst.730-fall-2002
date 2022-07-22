@@ -5,6 +5,7 @@ file: /courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/f3a0e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: new_genetic_hearing_loss.pdf
 uid: f3a0e878-a6bf-5d6e-9457-c8cec493b90d
 ---
 Overview of Genetic Hearing Loss
-

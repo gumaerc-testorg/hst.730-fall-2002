@@ -5,6 +5,7 @@ file: /courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/17c74
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: new_lab_introsept25_sh.pdf
 uid: 17c74292-ce24-4d5f-fcb8-88b869b3aaba
 ---
 Molecular Biology Techniques and Lab Intro
-
