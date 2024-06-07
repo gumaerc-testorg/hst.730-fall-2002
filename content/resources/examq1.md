@@ -4,6 +4,7 @@ description: Pedigree from a family in which sensorineural deafness is present i
   some members. Squares are males, circles are females, dark symbols are deaf family
   members, white symbols are normal hearing family members.
 file: /courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/948483ea0c152947ebee7f8c6afae5ac_examq1.jpg
+file_size: 12962
 file_type: image/jpeg
 image_metadata:
   caption: ''
