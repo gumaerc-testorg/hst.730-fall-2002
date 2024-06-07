@@ -2,6 +2,7 @@
 content_type: resource
 description: Myosins
 file: /courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/6e81bb8284357ea1773e99832d21c65b_new_myosinlecture_ag.pdf
+file_size: 1640158
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Final Exam HST 730/Pathology 205 Lecture #24'
 file: /courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/992dd639a07ede3871e24fd5d34ead95_examQ7.pdf
+file_size: 259137
 file_type: application/pdf
 learning_resource_types:
 - Exams
