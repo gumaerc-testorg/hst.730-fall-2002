@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: New image Upload
-file: /courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/844e7b446db7b0008237c93990dbab6a_hst-730f02-th.jpg
+file: /ol-ocw-studio-app/courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/844e7b446db7b0008237c93990dbab6a_hst-730f02-th.jpg
 file_size: 9627
 file_type: image/jpeg
 image_metadata:
