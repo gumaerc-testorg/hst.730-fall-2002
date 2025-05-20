@@ -2,7 +2,7 @@
 content_type: resource
 description: Photos of three 2-D gels run on samples exploring hair cell regeneration
   in sparrows.
-file: /ol-ocw-studio-app/courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/b91d44359191f26e93a5142c2dbed839_examq3.jpg
+file: /courses/hst-730-molecular-biology-for-the-auditory-system-fall-2002/b91d44359191f26e93a5142c2dbed839_examq3.jpg
 file_size: 28467
 file_type: image/jpeg
 image_metadata:
