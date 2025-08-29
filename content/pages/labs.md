@@ -3,7 +3,7 @@ content_type: page
 description: This section provides an introduction to the lab and descriptions of
   the lab projects.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 96637730-3e6e-8fb3-17f3-c255e0104a2b
