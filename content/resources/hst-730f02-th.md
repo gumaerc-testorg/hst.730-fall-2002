@@ -5,8 +5,7 @@ file: /ol-ocw-studio-app/courses/hst-730-molecular-biology-for-the-auditory-syst
 file_size: 9627
 file_type: image/jpeg
 image_metadata:
-  caption: The inner ear. (Image courtesy of {{% resource_link "ad85710a-bef9-4bbd-8777-c03d6c0332c8"
-    "http://www.nasa.gov" %}}.)
+  caption: The inner ear. (Image courtesy of [http://www.nasa.gov](http://www.nasa.gov).)
   credit: ''
   image-alt: 'A diagram of the inner ear: ear flap, outer ear, ear canal, hammer,
     eardrum, anvil, middle ear, stirrup, Eustachian tube, cochlea, auditory nerve,
