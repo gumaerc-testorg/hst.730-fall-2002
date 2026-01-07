@@ -43,7 +43,7 @@ Hand-out of the sequencing results
 
 **Plasmid DNA Preparation - Qiagen Method  
 **  
-See also {{% resource_link "ed930acf-df55-46ea-af86-ee953a3d4785" "www.qiagen.com" %}} - QIAprep Miniprep Handbook
+See also [www.qiagen.com](http://www.qiagen.com) - QIAprep Miniprep Handbook
 
 1.  Resuspend bacterial cell pellet in 250µl buffer P1 and transfer to a microcentrifuge tube.
 2.  Have a timer ready - the next incubation step has to be exactly 4-5min!
